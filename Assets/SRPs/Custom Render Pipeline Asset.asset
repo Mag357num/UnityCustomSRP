@@ -12,3 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb3f1f7e4df364042bb601ecd65341b2, type: 3}
   m_Name: Custom Render Pipeline Asset
   m_EditorClassIdentifier: 
+  dynamicBatching: 1
+  instancing: 1

@@ -11,7 +11,7 @@ CBUFFER_START(UnityPerDraw)
 	float4x4 unity_ObjectToWorld;
 CBUFFER_END
 
-#define UNITY_MATRIX_M unity_ObjectToWorld
+#define UNITY_MATRIX_M unity_ObjectToWorld // 兼容gpu instancing开启和关闭两种情况下使用的世界矩阵
 
 #include "Packages/com.unity.render-pipelines.core/ShaderLibrary/UnityInstancing.hlsl"
 

@@ -326,6 +326,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/SRPs/CustomRenderPipeline.cs"
 "Assets/SRPs/CustomRenderPipelineAsset.cs"
+"Assets/SRPs/InstancedColor.cs"
 -langversion:9.0
 
 /deterministic
