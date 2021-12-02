@@ -1,5 +1,7 @@
 ## UnityCustomSRP
-这是一个unity自定义SRP学习工程,
+这是一个unity SRP自定义管线的学习工程, 包含以下内容:
+1. SRP 管线的搭建
+2. 在SRP管线中使用自定义shader
 
 ## 运行
 下载unity hub之后把该文件夹添加到hub中即可打开
